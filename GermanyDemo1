@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+    <title>Germany is my country of black yellow red</title>
+    <style>
+    
+    h1{
+        background: rgb(240, 202, 12);
+    }
+    
+    
+    body{
+        background: rgb(43, 0, 255);
+    }
+    
+    #famous-{
+       color: rgb(13, 215, 255);
+    }
+  
+    
+    #famous-p{
+        color: rgb(0, 255, 47);
+    }
+    
+    
+    
+    
+    #fact-head{
+        color: rgb(12, 240, 225);
+    }
+    
+       
+
+     #fact-p{
+        color: rgb(255, 145, 0);
+    }
+    
+    #live-head{
+        color: rgb(255, 4, 0);
+    }
+    
+    #live-par{
+        color: rgb(38, 255, 0);
+    }
+    
+    
+    
+    #locat-head{
+     color: rgb(255, 0, 255);   
+    }
+    
+     #loca-para{
+     color: rgb(237, 80, 52);   
+    }
+    
+    #look{
+     color: rgb(174, 52, 235);   
+    }
+        
+    </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Germany</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" height="160">
+         
+    <h2 id="famous-">What is Germany famous for?</h2>
+    <p id="famous-p"><em>Image result for germany information
+Germany is famous for being the <strong>Land of Poets and Thinkers.</strong> From vital inventions to Christmas traditions, sausages and beer, Germany is home to plenty of culture, history and quirky laws! Germany is also known for its major cities, the Black Forest, the Alps and Oktoberfest.</em></p>
+
+<h2 id="fact-head">3 facts about germany</h2>  
+<ul id="fact-p">
+<li>65% of the highways in Germany have no speed limit and are called the Autobahn.</li>
+<li>Germany sells around 6 million cars a year, making it one of the largest car producers in the world.</li>
+<li>The first book ever printed was in German, and the first magazine was launched in Germany in 1663.</li>
+</ul>    
+        
+<h2 id="live-head">Is Germany a good place to live?</h2>
+<p  id="live-par">Quality of life. Overall,<strong> Germany is a great place to live</strong>. It has a high standard of living, a strong economy, and plenty of culture and entertainment options for a good work-life balance. The cost of living can be high in the major cities, but there are also many benefits to living in Germany.</p>
+    
+    <h2 id="locat-head">Where is germany located?</h2>
+<p  id="loca-para">Germany is  located at <strong>Central Europe, bordering the Baltic Sea and the North Sea in the north.</strong> Area: 357 031 km² (137 850 sq. mi.) Terrain: Low plain in the north; high plains, hills, and basins in the center and east; mountainous alpine region in the south.</p>
+    <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/EU-Germany_%28orthographic_projection%29.svg/220px-EU-Germany_%28orthographic_projection%29.svg.png">    
+
+<h2  id="look">How do Germans look?</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg"height="271">
+        
+        
+    </body>
+</html>
